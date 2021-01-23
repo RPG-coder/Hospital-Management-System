@@ -1,12 +1,8 @@
 # Hospital-Management-System
-My 12th Std Cpp Project
+### Designed in Turbo C++
 
-Created in Turbo C++
-
-By 
-
+Designed By 
     Rahul Gautham Putcha
-    
     Kartik Nesari
     
 School : BGS NPS
